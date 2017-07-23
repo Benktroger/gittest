@@ -2,6 +2,6 @@ public class main
 {
     public main()
     {
-        int i =4;
+        int i =7;
     }
 }
